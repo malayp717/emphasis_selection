@@ -1,16 +1,8 @@
-# SemEval 2020 - Task 10: Emphasis Selection For Written Text in Visual Media
-
-### Team 'Corona Survivors':
-- Rishabh Agarwal
-- [Sahil Dhull](https://sahildhull.github.io/)
-- Vipul Singhal
-
-#### Under the guidance of:
-[Prof. Ashutosh Modi](https://ashutosh-modi.github.io/)
+# Emphasis Selection For Written Text in Visual Media
 
 ## Installation
 ```
-git clone https://github.com/SahilDhull/emphasis_selection.git
+git clone https://github.com/malayp717/emphasis_selection.git
 cd emphasis_selection
 virtualenv project
 pip install -r requirements.txt
