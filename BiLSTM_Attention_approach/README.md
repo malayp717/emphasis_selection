@@ -2,11 +2,11 @@
 
 ## Directory Structure
 
-- config.py -> contains various config parameters like file paths, model hyperparameters, etc
+- config.py $\rightarrow$ contains various config parameters like file paths, model hyperparameters, etc
 
-- model.py -> contains model for this approach
+- model.py $\rightarrow$ contains model for this approach
 
-- run.py -> script used to run the model
+- run.py $\rightarrow$ script used to run the model
 
 ## Running the model
 
