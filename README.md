@@ -26,4 +26,4 @@ Given a sequence of words or tokens C = <img src="https://render.githubuserconte
 
 - requirements.txt -> contains versions of packages required
 
-- eval_metric.py -> contains the function for Match_m as defined in task
+- eval_metric.py -> contains the function for Match<sub>m<\sub> as defined in task
