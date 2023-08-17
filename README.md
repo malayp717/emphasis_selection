@@ -15,7 +15,7 @@ Download pre-trained GloVe embeddings from `http://nlp.stanford.edu/data/glove.6
 The problem statement ([Task 10 in SemEval-2020](https://competitions.codalab.org/competitions/20815)) is designing automatic methods for emphasis selection i.e. choosing candidates for emphasis in short written text.
 
 More formally,
-Given a sequence of words or tokens C = ${ x_1, x_2, ..., x_n \}$ <img src="https://render.githubusercontent.com/render/math?math=\{ x_1, x_2, ..., x_n \}">, we want to compute a score <img src="https://render.githubusercontent.com/render/math?math=S_i"> for each <img src="https://render.githubusercontent.com/render/math?math=x_i"> which indicates the degree of emphasis to be laid on the word.
+Given a sequence of words or tokens C = $\{ x_1, x_2, ..., x_n \}$, we want to compute a score $S_{i}$ for each $x_{i}$ which indicates the degree of emphasis to be laid on the word.
 
 ## Directory Structure
 - datasets $\rightarrow$ contains the train and development sets
